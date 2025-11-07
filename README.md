@@ -92,6 +92,14 @@ https://www.youtube.com/watch?v=mK6Rseb702s&authuser=0
 
 https://github.com/Rhian777/INSY7314_TASK3.git
 
+**Declaration of the Usage of AI**
+===================================
+
+This declaration serves as an admittance to the usage of AI in assistance to the development of this application; ChatGPT was consulted when 
+debugging certain errors or rewriting certiain code to prevent conflicts. Prompts run through ChatGPT include: "This is my Login.jsx code and this is
+my employee.mjs code, please provide me with why the login is failing nd rewrite code to remove error [paste code]", "Why is the customer logins not working 
+but the employee logs in work, below is my User.mjs code and Employee.mjs code, please help me remove the error [paste code]"
+
 **Group Members**
 =================
 
